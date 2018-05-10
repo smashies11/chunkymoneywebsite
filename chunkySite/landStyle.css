@@ -1,0 +1,37 @@
+#grad1{
+	background: SkyBlue;
+	background: linear-gradient(SkyBlue,Navy);
+}
+body {
+	background: linear-gradient(SkyBlue,Navy);
+	height: 100%;
+	/*text-align: left;*/
+}
+h2 {
+	font-size: 20;
+}
+a:link {
+	color: #555;
+	text-decoration: none;
+}
+a:visited {
+	color: #555;
+	text-decoration: none;
+}
+ul {
+	list-style-type: none;
+	margin:0;
+	padding:0;
+	width:10%;
+	/*text-align: left;*/
+}
+li{
+	/*display: block;*/
+	padding: 5;
+	margin:0;
+	background-color: #DADADA;
+}
+li:hover{
+	background-color: #111111;
+	color:#aaaaaa
+}
