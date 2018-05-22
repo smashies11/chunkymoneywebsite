@@ -1,12 +1,12 @@
 # chunkymoneywebsite
-Development and repository practice for Money Bunny and Chunky Monkey
+*Development and repository practice for Money Bunny and Chunky Monkey*
 
-Butterfly Catching Game
+BUTTERFLY CATCHING GAME
 
+DESCRIPTION:
 Using mouse net to catch butterflies fluttering around the screen
 
-Structure
+STRUCTURE:
+-Title: Butterfly Grab
 
--Title:
-
--Canvas of game
+-Canvas of game:
